@@ -1,2 +1,2 @@
 # files
-no open
+Прoстoй файлo oбменник
